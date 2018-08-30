@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QEMU 2.10.0\n"
+"Report-Msgid-Bugs-To: qemu-devel@nongnu.org\n"
+"POT-Creation-Date: 2018-06-07 21:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ui/gtk.c:288
+msgid " - Press Ctrl+Alt+G to release grab"
+msgstr ""
+
+#: ui/gtk.c:292
+msgid " [Paused]"
+msgstr ""
+
+#: ui/gtk.c:1983
+msgid "_Pause"
+msgstr ""
+
+#: ui/gtk.c:1989
+msgid "_Reset"
+msgstr ""
+
+#: ui/gtk.c:1992
+msgid "Power _Down"
+msgstr ""
+
+#: ui/gtk.c:1998
+msgid "_Quit"
+msgstr ""
+
+#: ui/gtk.c:2090
+msgid "_Fullscreen"
+msgstr ""
+
+#: ui/gtk.c:2093
+msgid "_Copy"
+msgstr ""
+
+#: ui/gtk.c:2109
+msgid "Zoom _In"
+msgstr ""
+
+#: ui/gtk.c:2118
+msgid "Zoom _Out"
+msgstr ""
+
+#: ui/gtk.c:2125
+msgid "Best _Fit"
+msgstr ""
+
+#: ui/gtk.c:2132
+msgid "Zoom To _Fit"
+msgstr ""
+
+#: ui/gtk.c:2138
+msgid "Grab On _Hover"
+msgstr ""
+
+#: ui/gtk.c:2141
+msgid "_Grab Input"
+msgstr ""
+
+#: ui/gtk.c:2170
+msgid "Show _Tabs"
+msgstr ""
+
+#: ui/gtk.c:2173
+msgid "Detach Tab"
+msgstr ""
+
+#: ui/gtk.c:2185
+msgid "_Machine"
+msgstr ""
+
+#: ui/gtk.c:2190
+msgid "_View"
+msgstr ""

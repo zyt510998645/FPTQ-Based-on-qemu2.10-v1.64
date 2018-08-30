@@ -1,0 +1,18 @@
+#######CONF#STATS####### 
+L1_DCache_Size: 64 KB 
+L1_CACHE_LINE: 64 Byte 
+L1_ASSOCIATE: 1024 Way
+(L1_SET_NUM: 1 Set) 
+Cut-off Distance:
+  RDD:5 
+  SDD:5 
+  RDD_SAMPLE:5 
+  SDD_SAMPLE:5 
+#######CONF#STATS#######
+
+SET_NUM_LIST: 0 1 2 3...
+49217 
+
+Qemu_RDD_L/S: 49217 
+
+19746 7893 2843 2058 435 16242 
